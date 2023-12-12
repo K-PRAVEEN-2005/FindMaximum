@@ -63,8 +63,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
- ![Alt text](3a1.png)
- ![Alt text](3a2.png)
- ![Alt text](3a3.png)
+ ![3a1](https://github.com/K-PRAVEEN-2005/FindMaximum/assets/145742724/628b8446-b194-4b07-91e1-0245e6e22235)
+
+  ![3a2](https://github.com/K-PRAVEEN-2005/FindMaximum/assets/145742724/b8fb9696-58bf-4f21-a7f4-c743a8b9706c)
+
+  ![3a3](https://github.com/K-PRAVEEN-2005/FindMaximum/assets/145742724/e6dff08a-7c31-4e6d-b5d6-d5c84c8826fc)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
